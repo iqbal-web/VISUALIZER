@@ -8,6 +8,8 @@ order by applying the different algorithms by clicking on the buttons of these
 sorting algorithms.
 
 
+Presentation Link : https://docs.google.com/presentation/d/1zJCz5s1gtP2ChmBkEp0OwBQHI1PXCDLwkDO33JndzjM/edit?usp=sharing
+
 # Feature of Sorting Visualizer.
 * Select algorithms: we can select five different type of sorting algorithm
 for visualize.
